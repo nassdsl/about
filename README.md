@@ -5,7 +5,7 @@
 </p>
 <br>
 <small>
-  <li><strong>Siga me No <a href="#" onclick="http://twitter.com/nassds">Twitter</a></strong></li>
-  <li><strong>Siga me No <a href="#" onclick="https://www.instagram.com/nassdsl/">Instagram</a></strong></li>
+  <li><strong>Siga me No <a href="http://twitter.com/nassds">Twitter</a></strong></li>
+  <li><strong>Siga me No <a href="https://www.instagram.com/nassdsl/">Instagram</a></strong></li>
  </small>
 
