@@ -1,6 +1,6 @@
 # About
 
-<p">
+<p>
   Sorry but here has nothing on this moment, back later
 </p>
 <br>
